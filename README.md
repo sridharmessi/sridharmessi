@@ -1,9 +1,12 @@
 - 👋 Hi, I’m sridhar
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning datascience and cloud technology
-- 📫 How to reach me through mail -sridhar.d2030@gmail.com 
+- 📫 How to reach me through mail -sridhar.d2030@gmail.com
 
-<!---
-sridharmessi/sridharmessi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+ ![image](https://user-images.githubusercontent.com/67998630/132635595-8d854180-9672-4505-8058-2db0bd09aa87.png)
+
+
+
+
