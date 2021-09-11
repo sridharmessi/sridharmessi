@@ -3,13 +3,6 @@
 ![final_613c417611803a00f1e30b6d_259273](https://user-images.githubusercontent.com/67998630/132937630-56a77dde-dc14-46e6-8648-d1c534edf878.gif)
 
 
-
-
-
-
-
-
-
 👀 I’m interested in machine learning
 
 🌱 I’m currently learning datascience and cloud technology
