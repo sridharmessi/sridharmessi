@@ -1,4 +1,14 @@
-👋 Hi, I’m sridhar
+
+
+
+![final_613c3f9411803a00f1e30ae1_418051](https://user-images.githubusercontent.com/67998630/132937511-c29f4f7e-7fe9-46e7-85a9-6b26653a44b0.gif)
+
+
+
+
+
+
+
 
 👀 I’m interested in machine learning
 
