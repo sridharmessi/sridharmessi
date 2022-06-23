@@ -19,7 +19,7 @@
 
 
 
-Feel free to connect:
+Feel free to connect :
 
 [<img src="https://user-images.githubusercontent.com/67998630/132637299-6efaf5c7-72fc-40a4-8f24-4fad4b1d61aa.png" width="20" height="20">](https://www.linkedin.com/in/sridhar-d-69ba63203/)
 
